@@ -1,1 +1,1 @@
-begineer python projects
+beginner python projects
